@@ -1,2 +1,2 @@
 # Minirust
-Minirust interpreter for cross-platform
+Minirust-- Rust interpreter for cross-platform
